@@ -12,5 +12,5 @@ Mi objetivo es continuar desarrollando mi carrera en un entorno dinámico y desa
 - [git@github.com:cristhian9403//proyectometodologia.git](https://github.com/cristhian9403/proyectometodologia.git):Proyecto Metodología es una plataforma web diseñada para proporcionar información básica sobre psicología dirigida a estudiantes. La herramienta fue desarrollada utilizando HTML, CSS, y JavaScript, ofreciendo funciones interactivas y atractivas que permiten a los usuarios explorar diversos temas de manera dinámica. Esta plataforma educativa se destaca por su facilidad de uso y su enfoque en hacer el aprendizaje accesible y llamativo para los estudiantes.
 
 ### Contáctame
-- [LinkedIn](www.linkedin.com/in/cristhian-camilo-hernandez-gomez-95137a109)
+- [LinkedIn](www.linkedin.com/in/cristhian-camilo-hernandez-gomez-95137a109/)
 - [Correo electrónico](cristhianhernandez418@gmail.com)
