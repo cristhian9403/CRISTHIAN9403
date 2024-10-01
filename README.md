@@ -1,4 +1,4 @@
-## Hola, soy [CRISTHIAN] 👋
+## Hola, soy CRISTHIAN 👋
 
 Soy un ingeniero de software Full Stack con experiencia en el desarrollo de soluciones tecnológicas para empresas públicas y privadas. Mi enfoque principal es el desarrollo backend, con sólidas competencias en tecnologías como Python3, Django, PHP8, Laravel, CodeIgniter y Java 8, además de un amplio manejo de bases de datos SQL. Aunque mi especialidad es el backend, también poseo habilidades en frontend que me permiten colaborar en todas las etapas del ciclo de vida del desarrollo de software, logrando una visión integral de los proyectos.
 
